@@ -1,0 +1,44 @@
+.paragraph {
+    font-size: 80px;
+}
+
+.my__pic {
+    border-radius: 50px;
+    width: 100px;
+    margin-bottom: 4px;
+}
+
+h1 {
+    font-size: 24px;
+    margin-bottom: 8px;
+}
+
+.my-pic__description {
+    display: block;
+    font-size: 14px;
+}
+
+.container {
+    width: 28%;
+    margin: 50px 20px;
+    font-family: sans-serif;
+}
+
+.hire-me__btn {
+    width: 50%;
+    padding: 12px 2px;
+    background-color: rgba(0, 0, 0, 0.9);
+    border-style: none;
+}
+
+.hire-me__btn--link {
+    text-decoration: none;
+    color: white;
+    font-weight: 500;
+    font-size: 20px;
+}
+
+.about-me__para {
+    margin-top: 0;
+    color: rgb(56, 56, 56);
+}
