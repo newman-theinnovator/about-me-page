@@ -1,7 +1,8 @@
+
 .my__pic {
     border-radius: 50px;
     width: 100px;
-    margin-bottom: 4px;
+    margin-bottom: 2px;
 }
 
 h1 {
@@ -15,13 +16,14 @@ h1 {
 }
 
 .container {
-    width: 28%;
+    width: 280px;
     margin: 50px 20px;
-    font-family: sans-serif;
+   font-family: sans-serif;
 }
 
 .hire-me__btn {
     width: 50%;
+    margin-top: 12px;
     padding: 12px 2px;
     background-color: rgba(0, 0, 0, 0.9);
     border-style: none;
@@ -35,6 +37,6 @@ h1 {
 }
 
 .about-me__para {
-    margin-top: 0;
+    margin: 0;
     color: rgb(56, 56, 56);
 }
